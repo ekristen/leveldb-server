@@ -1,0 +1,22 @@
+{
+  "name": "leveldb-server",
+  "version": "1.0.0",
+  "description": "Bundled Networked LevelDB instance",
+  "main": "index.js",
+  "dependencies": {
+    "level-hyper": "^0.18.0",
+    "level-ttl": "^3.0.3",
+    "multilevel": "^6.1.0",
+    "rc": "^0.6.0",
+    "reconnect-core": "^0.2.1",
+    "xtend": "^4.0.0"
+  },
+  "keywords": [
+    "level",
+    "leveldb"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ekristen/leveldb-server"
+  }
+}
